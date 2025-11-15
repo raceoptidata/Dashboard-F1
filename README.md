@@ -1,3 +1,4 @@
+![RaceOptiData Banner](images/Github_banner.png)
 RaceOptiData — F1 Insights Dashboard
 
 Interactive Power BI dashboard covering every Formula 1 season since 1950.
